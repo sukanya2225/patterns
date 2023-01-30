@@ -7,5 +7,6 @@ public class Patterns {
             }
             System.out.println(" ");
         }
+      System.out.println("Sukanya");
     }
 }
